@@ -31,3 +31,5 @@ const listaPelicula = [
 listaPelicula.sort((a,b) =>a.anio - b.anio)
 
 console.log(listaPelicula)
+//<
+
